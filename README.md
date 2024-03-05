@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/83/83/1f/83831f247ec05b3d87461cb16d23f034.jpg)
 <h1 align="center">Knock Knock, its Buğra</h1>
-<h3 align="center">A passionate game designer from Turkey</h3>
+<h3 align="center">A passionate pixel game designer from Turkey</h3>
 
 - 🔭 I’m currently working on [GeoDrone](https://whale-studios.itch.io/geodrone)
 
