@@ -1,4 +1,4 @@
-[![MasterHead](https://twitter.com/BojackHCrypto/status/1657757163845038081/photo/1
+[![MasterHead](http://twitter.com/BojackHCrypto/status/1657757163845038081/photo/1
 <h1 align="center">Knock Knock, its Buğra</h1>
 <h3 align="center">A passionate game designer from Turkey</h3>
 
